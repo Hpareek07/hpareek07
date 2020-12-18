@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hpareek96/](https://www.linkedin.com/in/hpareek96/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** , **would love to discuss about financal instruments, stock markets.**
 
 - 📫 How to reach me **hpareek1996@outlook.com**
 
