@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hpareek96" target="blank"><img align="center" src="https://www.svgrepo.com/show/9911/linkedin.svg" alt="hpareek96" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hpareek07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hpareek07" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/hpareek07" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="hpareek07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hpareek96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hpareek96" height="30" width="40" /></a>
 </p>
 
