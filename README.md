@@ -31,5 +31,3 @@ I've been working in tech organizations from around 6 years. Always looking to l
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/hpareek96"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
